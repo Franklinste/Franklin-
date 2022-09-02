@@ -1,0 +1,4 @@
+personName="Charlie"
+favouriteColour ="green"
+print("Hi" , personName, "- your colour is", favouriteColour)
+print ("Goodbye" , personName)
